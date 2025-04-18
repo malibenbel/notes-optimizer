@@ -1,6 +1,6 @@
 # 🗂️ Meeting Notes Optimization Pipeline
 
-This project automates the process of cleaning and uploading meeting notes into **Google BigQuery**. It is designed for teams that want to centralize and analyze their meeting summaries using scalable cloud-based infrastructure.
+This project automates the process of cleaning, summarizing, and uploading meeting notes into **Google BigQuery**. It is designed for teams that want to centralize and analyze their meeting summaries using scalable cloud-based infrastructure.
 
 ---
 
